@@ -20,11 +20,11 @@ Create your module in `autoResponse.js` and export it to `app.js`. The goal of t
 ===
 Some of the questions/challenges below may "require"(<-- get it?) some extra research and digging. They will be discussed further at the end of the exercise.
 
-1. What do the following commands mean (npm init, npm install <module> -g, npm install <module> --save)
+1. What do the following commands mean? (npm init, npm install <module> -g, npm install <module> --save)
 2. What does require do? How does it work differently for Core, Local, NPM modules?
 3. How would you export a function vs. object?
 4. Public vs. Private Interfaces, why do they matter when working with modules?
-5. module.exports vs. exports what is the difference between the two.
+5. module.exports vs. exports what is the difference between the two?
 6. What is package.json?
 
 
